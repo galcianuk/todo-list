@@ -1,0 +1,1 @@
+I'm doing the Javascript todo list exercise using the DOM and other tools I have learnt so far.
